@@ -1,0 +1,23 @@
+.login-hotel-img{
+    width: 100%;
+    height: 100vh;
+    object-position: right; 
+    object-fit: cover;   
+}
+
+.login-hotel-h1{
+    font-size: 2.5rem;;
+}
+
+.login-hotel-form{
+    width: 80%;
+    max-width: 565px;
+}
+
+.login-hotel-fields{
+    width: 100%;
+}
+.login-hotel-fields > *{
+    margin: 0.8rem 0 !important;
+    width: 100% !important;
+}
